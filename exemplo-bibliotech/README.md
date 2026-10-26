@@ -10,6 +10,7 @@ Esta pasta tem as seções do documento dele já prontas, com os mesmos nomes de
 | 3.1 Abordagem de Desenvolvimento | [docs/3.1-abordagem-de-desenvolvimento.md](docs/3.1-abordagem-de-desenvolvimento.md) | Aula 22 |
 | 4.2.1 Levantamento de Requisitos | [docs/4.2.1-levantamento-de-requisitos.md](docs/4.2.1-levantamento-de-requisitos.md) | Aula 23 |
 | 4.2.2 Modelagem de Casos de Uso | [docs/4.2.2-casos-de-uso.md](docs/4.2.2-casos-de-uso.md) | Aula 24 |
+| 4.2.3 Modelagem de Classes | [docs/4.2.3-classes.md](docs/4.2.3-classes.md) | Aula 25 |
 
 Os diagramas do BiblioTech ficam em [`diagramas/`](diagramas/), nos mesmos dois formatos que o seu. O `.drawio` abre no draw.io para editar, e o `.png` aparece na seção.
 
