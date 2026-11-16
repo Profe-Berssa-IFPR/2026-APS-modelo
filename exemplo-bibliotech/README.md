@@ -12,10 +12,11 @@ Esta pasta tem as seções do documento dele já prontas, com os mesmos nomes de
 | 4.2.2 Modelagem de Casos de Uso | [docs/4.2.2-casos-de-uso.md](docs/4.2.2-casos-de-uso.md) | Aula 24 |
 | 4.2.3 Modelagem de Classes | [docs/4.2.3-classes.md](docs/4.2.3-classes.md) | Aula 25 |
 | 4.2.5 Modelagem de Atividade | [docs/4.2.5-atividade.md](docs/4.2.5-atividade.md) | Aula 26 |
+| 4.2.4 Modelagem de Sequência | [docs/4.2.4-sequencia.md](docs/4.2.4-sequencia.md) | Aula 27 |
 
 Os diagramas do BiblioTech ficam em [`diagramas/`](diagramas/), nos mesmos dois formatos que o seu. O `.drawio` abre no draw.io para editar, e o `.png` aparece na seção.
 
-A 4.2.4 vem depois da 4.2.5 de propósito: a ordem é a da análise, e o documento final mantém a numeração do modelo.
+A 4.2.4 veio depois da 4.2.5 de propósito: a ordem é a da análise, e o documento final mantém a numeração do modelo. Pelo mesmo motivo a figura da 4.2.4 é a 5 e a da 4.2.5 é a 4. Na montagem final elas são renumeradas na ordem das seções.
 
 As próximas seções chegam aqui na aula de cada uma.
 
